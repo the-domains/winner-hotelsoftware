@@ -1,0 +1,28 @@
+name: Winner Hotelsoftware
+favicon: null
+layout_spectrum: 0.7901171005796641
+typography_spectrum: 0.9393616379238665
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.9065115554258227
+  lightness: 0.6229032676201314
+  saturation: 0.03338721627369523
+  rhythmicContrast: 0.12511811219155788
+purpose: []
