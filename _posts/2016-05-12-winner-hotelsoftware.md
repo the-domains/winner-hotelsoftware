@@ -5,11 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-12T07:45:17.972Z'
-dateModified: '2016-05-12T07:44:45.729Z'
+datePublished: '2016-08-09T12:09:52.801Z'
+dateModified: '2016-08-09T12:04:43.576Z'
 title: Winner Hotelsoftware
 author: []
 sourcePath: _posts/2016-05-12-winner-hotelsoftware.md
+via: {}
 authors: []
 publisher:
   name: null
